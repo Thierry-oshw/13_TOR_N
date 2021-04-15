@@ -1,0 +1,6 @@
+Reference, Quantity, Value, Footprint, Datasheet
+H1 H2 H3 H4 H5 H6 H7 H8 ,8,"percage","Chimere:trou","~"
+J1 J2 J3 J4 J5 ,5,"Conn_01x01","Chimere:Castellated_conn","~"
+Q1 ,1,"FDS8884","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","C10883"
+R1 ,1,"100k","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder"," C25803"
+R2 ,1,"100","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder"," C22775"
