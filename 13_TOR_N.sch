@@ -19,7 +19,7 @@ U 1 1 606CE97F
 P 4300 5075
 F 0 "J1" H 4380 5117 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 5026 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4300 5075 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4300 5075 50  0001 C CNN
 F 3 "~" H 4300 5075 50  0001 C CNN
 	1    4300 5075
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 606CFC19
 P 4300 5425
 F 0 "J3" H 4380 5467 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 5376 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4300 5425 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4300 5425 50  0001 C CNN
 F 3 "~" H 4300 5425 50  0001 C CNN
 	1    4300 5425
 	1    0    0    -1  
@@ -43,7 +43,7 @@ U 1 1 606D5E52
 P 4300 5250
 F 0 "J2" H 4380 5292 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 5201 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4300 5250 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4300 5250 50  0001 C CNN
 F 3 "~" H 4300 5250 50  0001 C CNN
 	1    4300 5250
 	1    0    0    -1  
@@ -96,7 +96,7 @@ U 1 1 6079B82F
 P 4300 5625
 F 0 "J5" H 4380 5667 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 5576 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4300 5625 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4300 5625 50  0001 C CNN
 F 3 "~" H 4300 5625 50  0001 C CNN
 	1    4300 5625
 	1    0    0    -1  
@@ -111,7 +111,7 @@ U 1 1 6079BCA3
 P 4300 4900
 F 0 "J4" H 4380 4942 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 4851 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 4300 4900 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 4300 4900 50  0001 C CNN
 F 3 "~" H 4300 4900 50  0001 C CNN
 	1    4300 4900
 	1    0    0    -1  
@@ -126,7 +126,7 @@ U 1 1 607A1C81
 P 3850 6600
 F 0 "H1" H 3950 6646 50  0000 L CNN
 F 1 "percage" H 3950 6555 50  0000 L CNN
-F 2 "Chimere:trou" H 3850 6600 50  0001 C CNN
+F 2 "Chimere_comps:trou" H 3850 6600 50  0001 C CNN
 F 3 "~" H 3850 6600 50  0001 C CNN
 	1    3850 6600
 	1    0    0    -1  
@@ -137,7 +137,7 @@ U 1 1 607A3404
 P 3850 6875
 F 0 "H5" H 3950 6921 50  0000 L CNN
 F 1 "percage" H 3950 6830 50  0000 L CNN
-F 2 "Chimere:trou" H 3850 6875 50  0001 C CNN
+F 2 "Chimere_comps:trou" H 3850 6875 50  0001 C CNN
 F 3 "~" H 3850 6875 50  0001 C CNN
 	1    3850 6875
 	1    0    0    -1  
@@ -148,7 +148,7 @@ U 1 1 607A3C27
 P 4400 6600
 F 0 "H2" H 4500 6646 50  0000 L CNN
 F 1 "percage" H 4500 6555 50  0000 L CNN
-F 2 "Chimere:trou" H 4400 6600 50  0001 C CNN
+F 2 "Chimere_comps:trou" H 4400 6600 50  0001 C CNN
 F 3 "~" H 4400 6600 50  0001 C CNN
 	1    4400 6600
 	1    0    0    -1  
@@ -159,7 +159,7 @@ U 1 1 607A3C2D
 P 4400 6875
 F 0 "H6" H 4500 6921 50  0000 L CNN
 F 1 "percage" H 4500 6830 50  0000 L CNN
-F 2 "Chimere:trou" H 4400 6875 50  0001 C CNN
+F 2 "Chimere_comps:trou" H 4400 6875 50  0001 C CNN
 F 3 "~" H 4400 6875 50  0001 C CNN
 	1    4400 6875
 	1    0    0    -1  
@@ -170,7 +170,7 @@ U 1 1 607A502A
 P 4875 6600
 F 0 "H3" H 4975 6646 50  0000 L CNN
 F 1 "percage" H 4975 6555 50  0000 L CNN
-F 2 "Chimere:trou" H 4875 6600 50  0001 C CNN
+F 2 "Chimere_comps:trou" H 4875 6600 50  0001 C CNN
 F 3 "~" H 4875 6600 50  0001 C CNN
 	1    4875 6600
 	1    0    0    -1  
@@ -181,7 +181,7 @@ U 1 1 607A5030
 P 4875 6875
 F 0 "H7" H 4975 6921 50  0000 L CNN
 F 1 "percage" H 4975 6830 50  0000 L CNN
-F 2 "Chimere:trou" H 4875 6875 50  0001 C CNN
+F 2 "Chimere_comps:trou" H 4875 6875 50  0001 C CNN
 F 3 "~" H 4875 6875 50  0001 C CNN
 	1    4875 6875
 	1    0    0    -1  
@@ -192,7 +192,7 @@ U 1 1 607A5036
 P 5425 6600
 F 0 "H4" H 5525 6646 50  0000 L CNN
 F 1 "percage" H 5525 6555 50  0000 L CNN
-F 2 "Chimere:trou" H 5425 6600 50  0001 C CNN
+F 2 "Chimere_comps:trou" H 5425 6600 50  0001 C CNN
 F 3 "~" H 5425 6600 50  0001 C CNN
 	1    5425 6600
 	1    0    0    -1  
@@ -203,7 +203,7 @@ U 1 1 607A503C
 P 5425 6875
 F 0 "H8" H 5525 6921 50  0000 L CNN
 F 1 "percage" H 5525 6830 50  0000 L CNN
-F 2 "Chimere:trou" H 5425 6875 50  0001 C CNN
+F 2 "Chimere_comps:trou" H 5425 6875 50  0001 C CNN
 F 3 "~" H 5425 6875 50  0001 C CNN
 	1    5425 6875
 	1    0    0    -1  
@@ -213,7 +213,7 @@ GND
 Text GLabel 4100 4475 0    50   Input ~ 0
 GND
 $Comp
-L Chimere:FDS6630A Q1
+L Chimere_comps:FDS6630A Q1
 U 1 1 6078CBA9
 P 4550 4075
 F 0 "Q1" H 4755 4121 50  0000 L CNN

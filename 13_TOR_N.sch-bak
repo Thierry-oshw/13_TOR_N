@@ -213,7 +213,7 @@ GND
 Text GLabel 4100 4475 0    50   Input ~ 0
 GND
 $Comp
-L Chimere:FDS6630A Q1
+L Chimere_comps:FDS6630A Q1
 U 1 1 6078CBA9
 P 4550 4075
 F 0 "Q1" H 4755 4121 50  0000 L CNN
